@@ -1,0 +1,11 @@
+zoe1804-cmis = github username
+ls=list
+git clone --config="http.proxy=http://zoe1804:eoz5@192.168.2.1:8080" https://github.com/zoe1804-cmis/zoe1804-cmis-wd.git
+cd= enter into a folder
+cd ..= move back to parent folder
+gedit ….. & = open …….. folder in gedit
+ git status= shows recent changes
+git add (filename)= add git
+git commit -m “description” = commit git
+git push = git push
+ctrl + c = cancels command
