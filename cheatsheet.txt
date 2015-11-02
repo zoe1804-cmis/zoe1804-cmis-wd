@@ -9,3 +9,4 @@ git add (filename)= add git
 git commit -m “description” = commit git
 git push = git push
 ctrl + c = cancels command
+clear= pushes everything out of the way
