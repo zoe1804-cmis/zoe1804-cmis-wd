@@ -1,0 +1,13 @@
+Open terminal by clicking on the icon.
+copy your git clone repository link and paste it into terminal eg:git clone --config="http.proxy=http://network login:network password@192.168.2.1:8080" https://github.com/github login/name1234-cmis-wd.git , then press enter
+enter your folder by typing cd and then your name1234-cmis-wd.git, press enter
+type gedit and the name of the file which you would like to upload eg: gedit cheatsheet.txt
+add an & to the end of that command, press enter
+add whatever you would like into that file
+save the file with Ctrl S
+go back to terminal and type git add and your new file name eg: git add cheatsheet.txt, press enter
+next you want to commit your git by typing git commit -m "description of what changes you made to the file" eg: git commit - "made a new file named cheatsheet.txt", press enter
+next you need to type git push and press enter
+terminal will then ask you to type in your github username and then your github password, press enter
+the bottom line of the text that comes up should say master -> master
+then you can leave terminal and your work is done!
