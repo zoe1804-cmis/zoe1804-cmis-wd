@@ -10,3 +10,11 @@ git commit -m “description” = commit git
 git push = git push
 ctrl + c = cancels command
 clear= pushes everything out of the way
+python -m SimpleHTTPServer
+sftp zoe1804@cmis-hsteacher = open sftp
+exit = leave sftp
+put filename = move to current folder
+put * = add every file
+put *specify = add every file of a certain type
+ls *specify= list every file of a certain type
+!ls= list the files on your home computer
