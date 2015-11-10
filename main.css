@@ -1,18 +1,36 @@
+html{
+	background-color:darkslateblue;
+	border-style:double;
+	border-color:mediumturquoise;
+}
 h1{
 	font-family:Courier New;
-	color:turquoise;
+	color:darkturquoise;
 	font-size:50px;
-	background-color:DarkSlateBlue;
+	background-color:;
+	border-style:double;
 }
 h2{
 	font-family:Courier New;
-	color:MidnightBlue;
+	color:darkturquoise;
 	font-size: 35px;
-	background-color:DarkCyan
+	background-color:DarkSlateBlue;
 }
 p1{
-	font-family:Courier New;
-	color:SpringGreen;
+	font-family:Impact;
+	color:darkturquoise;
 	font-size:30px;
-	background-color:DarkSlateGrey;
+	background-color:DarkSlateBlue;
+}
+nav{
+	font-family: Courier New;
+	color:darkturquoise;
+	font-size:30px;
+	background-color:DarkSlateBlue;
+}
+footer{ 
+	font-family:Impact;
+	color:darkturquoise;
+	font-size:20px;
+	background-color: DarkSlateBlue;
 
