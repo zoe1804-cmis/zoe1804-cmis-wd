@@ -1,36 +1,65 @@
 html{
+	border-style:groove;
+	border-color:Teal;
+	border-width:20px;
+	background-image:url(http://www.hdwallpaperscool.com/wp-content/uploads/2014/03/Free-download-Ocean-Desktop-Wallpapers-cool-background-images-widescreen.jpg);
+}
+main{
 	background-color:darkslateblue;
-	border-style:double;
-	border-color:mediumturquoise;
+	border-style:dashed;
+	border-color:Springgreen;
+	border-width:8px;
 }
 h1{
-	font-family:Courier New;
+	font-family:CourierNew;
+	font-variant:small-caps;
 	color:darkturquoise;
 	font-size:50px;
-	background-color:;
+	background-color:darkslateblue;
 	border-style:double;
+	border-color:Teal;
+	border-width:8px;
 }
 h2{
-	font-family:Courier New;
+	font-family:CourierNew;
+	font-variant:small-caps;
 	color:darkturquoise;
 	font-size: 35px;
 	background-color:DarkSlateBlue;
 }
 p1{
 	font-family:Impact;
+	font-variant:small-caps;
+	font-style:italic;
 	color:darkturquoise;
 	font-size:30px;
 	background-color:DarkSlateBlue;
 }
 nav{
-	font-family: Courier New;
+	font-family: CourierNew;
 	color:darkturquoise;
 	font-size:30px;
 	background-color:DarkSlateBlue;
 }
 footer{ 
 	font-family:Impact;
+	font-variant:small-caps;
 	color:darkturquoise;
 	font-size:20px;
 	background-color: DarkSlateBlue;
-
+}
+/*Requirements
+*Create a new file called "main.css"
+*Add a link element to the head of your index.html file
+*<link rel="stylesheet" href="main.css" type="text/css">
+*Edit the main.css file
+*add a declaration for each element in the body of your index.html file.
+*add properties to style the background color of each element.
+*add properties to style the border of each element.
+*add properties to style the font of each element.
+*View your index.html in the development server.
+*Validate your index.html file.
+*Validate your main.css file.
+*Copy this list of requirements and paste it into your "main.css" file as a css comment. Put an asterisk in front of each one that you did.
+*Upload to the production server with sftp.
+*View your index.html in the production server.*/
