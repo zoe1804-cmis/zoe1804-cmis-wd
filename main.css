@@ -27,7 +27,13 @@ h2{
 	font-size: 35px;
 	background-color:DarkSlateBlue;
 }
-p1{
+h3{
+	font-family:CourierNew;
+	font-variant:small-caps;
+	color:darkturquoise;
+	font-size:35px;
+}
+p{
 	font-family:Impact;
 	font-variant:small-caps;
 	font-style:italic;
@@ -46,7 +52,9 @@ footer{
 	font-variant:small-caps;
 	color:darkturquoise;
 	font-size:20px;
-	background-color: DarkSlateBlue;
+	background-color:indigo;
+	border-style:hidden hidden outset inset; 
+	border-color:darkturquoise springgreen;
 }
 /*Requirements
 *Create a new file called "main.css"
