@@ -1,23 +1,25 @@
 html{
 	border-style:groove;
-	border-color:Teal;
+	border-color:indigo;
 	border-width:20px;
-	background-image:url(http://www.hdwallpaperscool.com/wp-content/uploads/2014/03/Free-download-Ocean-Desktop-Wallpapers-cool-background-images-widescreen.jpg);
+	background-image:url(https://s-media-cache-ak0.pinimg.com/originals/c1/a3/39/c1a3392a948d812516bd16d245d3cfb9.jpg);
 }
 main{
-	background-color:darkslateblue;
+	background-image:url(http://dropzoneuk.com/wp-content/uploads/2015/03/Toddlezone-Header-Background.jpg);
 	border-style:dashed;
 	border-color:Springgreen;
 	border-width:8px;
+
 }
 h1{
 	font-family:CourierNew;
 	font-variant:small-caps;
 	color:darkturquoise;
 	font-size:50px;
-	background-color:darkslateblue;
+	text-align:center;
+	background-image:url(http://dropzoneuk.com/wp-content/uploads/2015/03/Toddlezone-Header-Background.jpg);
 	border-style:double;
-	border-color:Teal;
+	border-color:indigo;
 	border-width:8px;
 }
 h2{
@@ -25,13 +27,9 @@ h2{
 	font-variant:small-caps;
 	color:darkturquoise;
 	font-size: 35px;
-	background-color:DarkSlateBlue;
-}
-h3{
-	font-family:CourierNew;
-	font-variant:small-caps;
-	color:darkturquoise;
-	font-size:35px;
+	border-style:hidden hidden dotted hidden;
+	border-color:teal;
+	border-width:8px;
 }
 p{
 	font-family:Impact;
@@ -39,7 +37,6 @@ p{
 	font-style:italic;
 	color:darkturquoise;
 	font-size:30px;
-	background-color:DarkSlateBlue;
 }
 nav{
 	font-family: CourierNew;
@@ -52,9 +49,10 @@ footer{
 	font-variant:small-caps;
 	color:darkturquoise;
 	font-size:20px;
-	background-color:indigo;
+	background-color:darkslateblue;
 	border-style:hidden hidden outset inset; 
-	border-color:darkturquoise springgreen;
+	border-width:8px;
+	border-color:darkturquoise teal;
 }
 /*Requirements
 *Create a new file called "main.css"
