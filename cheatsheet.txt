@@ -18,3 +18,6 @@ put * = add every file
 put *specify = add every file of a certain type
 ls *specify= list every file of a certain type
 !ls= list the files on your home computer
+cmis-hsteacher/zoe1804-wd
+mkdir (new folder name) -make new folder
+rmdir (foldername) - remove folder
