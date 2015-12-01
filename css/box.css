@@ -1,5 +1,5 @@
 header{
-	width:600px;
+	width:1470px;
 	padding:5px;
 	border:20px double darkcyan;
 	margin:5px;
@@ -7,3 +7,33 @@ header{
 	font-style:impact;
 
 }
+nav ul{
+	background-image:url(http://dropzoneuk.com/wp-content/uploads/2015/03/Toddlezone-Header-Background.jpg);
+	font-variant:small-caps;
+	font-size:20px;
+	width:1470px;
+	padding:5px;
+	border:20px double ;
+	margin:5px;
+}
+table>thead{
+	border:10px double hotpink;
+}
+table{
+	border-collapse: collapse;
+	background-color:darkcyan;
+	border: 5px groove aqua;
+	color:mediumvioletred;
+}
+main li{
+	background-image:url(http://dropzoneuk.com/wp-content/uploads/2015/03/Toddlezone-Header-Background.jpg);
+	font-variant:small-caps;
+	font-size:13px;
+	width:1470px;
+	padding:5px;
+	border:20px double ;
+	margin:5px;
+}
+
+
+
