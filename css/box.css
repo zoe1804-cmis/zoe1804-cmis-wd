@@ -1,3 +1,6 @@
+html{
+	background-image:url(http://www.swfmas.com/forum/public/style_images/SWFMAS_Custom/_backgrounds/bg_ocean.jpg);
+}
 header{
 	width:1470px;
 	padding:5px;
@@ -25,15 +28,43 @@ table{
 	border: 5px groove aqua;
 	color:mediumvioletred;
 }
+tbody th{
+	color:turquoise;
+}
 main li{
-	background-image:url(http://dropzoneuk.com/wp-content/uploads/2015/03/Toddlezone-Header-Background.jpg);
+	background-color:darkslateblue;
 	font-variant:small-caps;
-	font-size:13px;
-	width:1470px;
+	font-size:15px;
+	width:1000px;
 	padding:5px;
-	border:20px double ;
+	border:15px double darkcyan;
 	margin:5px;
 }
+h2+p{
+	color:darkcyan;
+}
+h2{
+	color:darkcyan;
+	background-color:turquoise;
+	border:5px inset darkslateblue;
+	width: 1050px;
+	padding:5px;
+	margin:5px;
+	height:35px;
+	text-shadow:2px 5px lightseagreen;
+}
+h3{
+	color:darkcyan;
+	background-color:turquoise;
+	text-shadow:2px 5px lightseagreen;
+	width: 1050px;
+	padding:5px;
+	margin:5px;
+	height:20px;
+	border:5px inset darkslateblue;
+}
+	
+
 
 
 
