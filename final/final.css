@@ -3,5 +3,16 @@ nav{
 	float:left;
 }
 main{
+	border-style:solid;
 	margin-left:201px;
+	width:1000px;
+	clear:left;
+	overflow:auto;
 }
+img{
+	float:right;
+}
+li{
+	overflow:auto;
+}
+
