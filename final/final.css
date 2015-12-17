@@ -9,21 +9,36 @@ header{
 	border-style:solid;
 	margin:20px;
 }
+h1{
+	font-family: 'Kaushan Script', cursive;
+	font-size:45px;
+	margin:20px;
+}
+h2{
+	font-family: 'Kaushan Script', cursive;
+	font-size:30px;
+}
+p{
+	font-family: 'Indie Flower', cursive;
+	font-size:20px;
+}
 nav{
 	width:200px;
 	float:left;
 	background-color:#6A075E;
 	color:white;
-	border-style:solid
+	border-style:solid;
+	margin:20px;
 }
 main{
 	border-style:solid;
-	margin-left:220px;
+	margin-left:201px;
 	width:1000px;
-	clear:left;
 	overflow:auto;
 	background-color:#112967;
 	color:white;
+	float:left;
+	margin:20px;
 }
 img{
 	float:right;
@@ -35,7 +50,9 @@ main li{
 	padding:30px;
 	margin:30px;
 	color:white;
+	font-family: 'Indie Flower', cursive;
 }
 a{
 	color:white;
 }
+
